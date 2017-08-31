@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.esprit.findme.activity.JoinCircleActivity">
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <include
+            android:id="@+id/secondary_toolbar"
+            layout="@layout/toolbar_secondary" />
+
+
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp" >
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="18dp"
+    android:gravity="center"
+    android:text="Get the code from your circle's admin "
+    android:textColor="@color/accent"
+    android:layout_marginBottom="10dp"/>
+
+        <EditText
+            android:id="@+id/et_join_code"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Code"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/input_register"
+           />
+    <Button
+        android:id="@+id/join_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/accent"
+        android:layout_marginTop="10dp"
+        android:text="Join"
+        android:textColor="@color/white"/>
+    </LinearLayout>
+    </android.support.design.widget.CoordinatorLayout>

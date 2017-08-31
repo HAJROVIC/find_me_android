@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Find Me</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="hint_birth">Birth date</string>
+    <string name="hint_city">City</string>
+    <string name="hint_number">Phone number</string>
+    <string name="hint_confirm">Confirm Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_load_photo">Choose photo</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="facebook_app_id">1815145358723202</string>
+    <string name="fb_login_protocol_scheme">fb1815145358723202</string>
+    <string name="btn_save">SAVE</string>
+    <string name="chooser_title">Hi This is our circle code:</string>
+    <string name="hello_world">Hello World</string>
+    <string name="server">172.16.130.126</string>
+    <string name="title_activity_post">PostActivity</string>
+
+    <!-- Hajri: home fragment xml dimensons -->
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_album_radius">0dp</dimen>
+    <dimen name="album_cover_height">160dp</dimen>
+    <dimen name="album_title_padding">10dp</dimen>
+    <dimen name="album_title">15dp</dimen>
+    <dimen name="songs_count_padding_bottom">5dp</dimen>
+    <dimen name="songs_count">12dp</dimen>
+    <dimen name="ic_album_overflow_width">20dp</dimen>
+    <dimen name="ic_album_overflow_height">30dp</dimen>
+    <dimen name="ic_album_overflow_margin_top">10dp</dimen>
+    <string name="title_activity_post_details">PostDetailsActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_directions">Directions</string>
+
+
+    <!--END-->
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Itenairaire</string>
+    <string name="action_play_next">Send message</string>
+    <string name="backdrop_title">Friends</string>
+    <string name="backdrop_subtitle">Friends</string>
+    <string name="pause">Pause Location Updates</string>
+    <string name="resume">Resume Location Updates</string>
+
+
+</resources>

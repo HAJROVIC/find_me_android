@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_9132d7d82bd7f51d71e643e02370cfca9f128628\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_c61af8a1c8e704b44071d5e1a03b3e03e4e22f31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikhaellopez-circularimageview-3.0.2_f2dac4b2d8aa111babb3dcb9ed07d7f6e5177470\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_0829bb577691490a788a16e88c95da73c2a77d6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_13983d52dbef111dda8c720833738840f4e6edee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_82e64b8d0e66a1b2ab274f0b7f2ba2e2fb136ec8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_cbc3b8dbac7099e2a4c6ed61deb6bca854672255\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_327e0f39df6350690b14796eecbc314eeb764b50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="68aaf56b23b483015e7bfadc7de1c1fc4b1198e0">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c75acb70a26a572ac6a1bd4a64e7f5e68f7d7741\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_3ec30da116d8af5aa23a9c347ba24693973becd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_638df8991b4fbabb815e448eb1b8f603316046d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_e1dfcc36240086bcdae73cb54e065e13fed60ff5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_1720e01244678fd63b2f2bd84ba2d5efdfe12703\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_5532a5d64e5fdb26a5860a4bce408ca100d0f9a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_0d6c8fbc0721f6c41885b7ee75bc9cf618867f46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_fd0266bf763b461e54cdb02b6c181b0984a9d975\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_7cc1216de98911d3ef6780e21afc74be940e71c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_aeb08f07283d97c54d4abdd648d6a152f7126070\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_796abdadf64cb64c7d3bf47b89a1cc8b47d10436\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_583c41c7ff7895d0d618dcbab92e41f5ae2c13aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_715311d40e1e084477d9bae7f507f08cec5209e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_c56786f6a5846f5dfc0b1aef8d9f734f9efffdaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_cf99c2ddc2cc9e6ea9179f1fab3e475852598554\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6c93e9e2eebc721a761bf95849231879f1ba5bba">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bdd39e4fba02d8901c5fcae1ed70d8718fc87568\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_02845accc63af450edb18135461a4fc40fff0257\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_261aeebeb5315a434a4d8e1d3d75f30a9aa635c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_0159c8195b1c53095dc5b1b25dc4ff9aa5fc80dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_b409cd10b58369c0757fa857575538a735805d89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2077d7df72a3bd79570646c4524cee598d1344a2">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-beta2_5b87b99b737c6fa513b7c335cb74d2d05198cb18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_f60bf4ac483bab8439201f4beb3a3fa1b9ad89a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_3a9e8304ca299f58263beee59c86a81aa6fff1d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_650a0e6228dc2623b38a1f02eaf6023876123a46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_665ed371af787f80ff534ebe7c9c246bb91249ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_601d715ac58d04c7327edd5ed4dd56705693cae6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e0fac3d56be9d803dbfe307ae073327118a3218a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_0913d0408bac3aebbdd34ea194c6fd03b6696ab3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_f4badeda0a397fe7e79a69ad09800eca4b66f9b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_16141200dc4218e8b9b32eef93f8fd5abe5abac7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_553fab349f406ed0603ad65501e9cb84be398c9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_ac8021bc130ab94b9f7b62d72a52d853b5c4b264\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_9b4790889f8677c6b00ad9f775399759a56dde86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_2e080b54b10291e05d739348bb0c5131768b7a22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_9d42b19527c0bb6b9e20265ade3e07f8435a6199\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_fbba5d2f72066bdb2b5d85b65a5f4bcbef83c621\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_e0856e960bcd73d183fe55c4aba8ab22d7872e5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_5cee5f231d2177d1c6dc443d175f39d4d9b73913\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_59a269a8430f31a857073a6bc8f7e98ede61bcf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.akexorcist\googledirectionlibrary\1.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d720627a0fdd516f238c3acdfac6043e7717b742">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.akexorcist-googledirectionlibrary-1.0.5_70366d457af04467cc3a657577ff4a42cb8a135c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_d1f003a0c5761114cc9a9e058ed13b1eeeb5d408\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_29517261a571bb1036d93708ddc17fa034bddeea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_6ce1c16c9ee26c194d56952d0b8b4b507a5f3fd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_f7fc649c097454b38da35de92ebba97f7ba5a91d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_9555be78bcf498e0c1bba60c2f77744c341a149d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_b39ea136b15e7798605d02d78196b3662b8d7ced\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_45ca8480388e8c4105d8a24bd88d17c4528f16d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_99c4c0f87897f12bd58d85f8c8b0f8861f81d16f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_458e2a1408c8c1fda8893d264aa77554d2f0bf6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_cb4c8bb401bccb15b23ebb8cbdf654a3284358d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_53546546a461efb1601d247b93c714f52ff67dd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_ef868935a7c7fb6712b60b941be4f382d4fe3503\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_b88f1127e046ceca01275123586b02c5b9a8e4c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_bb426f520ccb035fad3193716651e33a8dea354c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_5d8cf78f0a0e341cb5846c4d418e83254d9da0b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.4.1_b141628168d75041f6e2b8e515653a70ac32582b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.0.0_17630ab70db39663b7a184b868ac362e42c4f1a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_b530b4915dc285cf9c1d8d66fe30c401d80b0c2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_def411d353b0d33285c1b6761ba64edf74dcb26a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_d76d186a78e3587089922c7322efff7623a0ba08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.18.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43a08f2cc1bc8e9678b5a1740f3b91b50ab50ac6">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.18.0_d4cd2c0d3f549ee5e95363d96858e1a60bd49268\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\net.gotev\uploadservice\2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="372295458f730b0715898d4b477a85aa1a777504">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\net.gotev-uploadservice-2.1_e6d96c2014aeca47d53558b2d90890f67f2e388c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_45910f764edb69bebb3c3ab67a199cc214440c16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_9d11ead4af332c774152db788fe54e7cf0ce64bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_e8357c8024b3caee742fa2517d571dd6bd254143\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_24c2b98e7a19e89bb9701ad4f7eaae161e01b99d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_68fa05f5add889b08ac7dd150161f92b33d8130b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_f29a7c406979606754f39ab5b741b432bcef1d16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_31283f726ee21e0efa55c0a58bc61f4f4cff8254\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_865a5957012f8e6dcc6a0fd81aa17e032c9fa7f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_7da9e9e5a6888faace75f567d3360202eaf332ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_4b4e291df629219b1dfa437479e567f74d906129\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta2\constraint-layout-solver-1.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5436cefb7e5c057655ed13ad54b56e1931f47fe">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta2_9946f27d3135a15e67e89f7bbc4790c3bc000872\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_c65469205e2addd6adb68564d02c35b2420fb75c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_fc3f3bc82646e7ba2b367796e5bd0a6d88ab82df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_e2d368631b85345cf9cdbb09107c79eb6ab3cb7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_6363fa87042dece259a4615175ed2e7b8e9db189\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_f43b03ca0664eff241c4a626c2643701c5f3ef08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_9f52c329387ecb59f75f225c41bccbd83d81e1cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.library.tangxiaolv\telegramgallery\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eabff30d9a5b701986448a75d9412d143f1af6ad">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.library.tangxiaolv-telegramgallery-1.0.2_0d37ba8e8b5d80d4099f0a38f2a5e73f22f65bfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_c8607b4975c6231f1441d4edf9e05df6312935de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\Med-Amine\Documents\GitHub\FindMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_1e16c928dc90bfb0c9dfc12f1128f3653800310b\classes.dex" />
+    </item>
+
+</items>
